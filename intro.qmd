@@ -1,0 +1,23 @@
+# Introduction
+
+The Open Science Program Office is tasked with developing a "Playbook" to help institutions assess contributions to open source software. But to begin monitoring, improving and measuring the value and extent of these contributions we need to start out asking several key questions:
+
+* What are we tracking?
+* How are we storing the data?
+* What are our key concerns?
+* What is our long-term vision?
+
+This book is written in parts to answer these questions, from our experience in the University of Wisconsin's OSPO. Without a guidebook to help us decide how to do this work, we had to answer these questions as we went along this process. Here we hope to explain our decision making process and the questions that guided us as we moved forward with this process.
+
+The book was originally written as a set of blog posts, that were expanded here and fleshed out more fully as the project matured, but many of the ideas were originally developed "on the fly" and then revised and repackaged for this book as the process and products settled.
+
+Roughly speaking, the book is divided into several core concepts:
+
+  * Project Design Decisions
+  * Data Suitability Decisions
+  * Visualization Decisions
+  * User Experience Decisions
+
+Each of these are associated with the external code repositories for this project, hosted on Github, individual blog posts, and graphs, figures and other outputs from the project itself.
+
+This project is hosted and maintained as a public github repository, and as such we welcome user contributions, insights and interaction.

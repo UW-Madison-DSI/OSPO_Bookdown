@@ -1,0 +1,53 @@
+project:
+  type: book
+
+book:
+  title: "Open Science Program Office Playbook"
+  author:
+    - name: Allison Kittinger
+      orcid: 0000-0002-3104-5995
+    - name: Abe Megahed
+      orcid: 0009-0000-0890-2656
+    - name: Kyle Cranmer
+      orcid: 0000-0002-5769-7094
+    - name: Simon J. Goring
+      orcid: 0000-0002-2700-4605
+      email: goring@wisc.edu
+      affiliations:
+        - name: University of Wisconsin
+          department: Data Science Insititute
+          city: Madison
+          state: WI
+          country: United States of America
+        - name: University of Wisconsin
+          department: Department of Geography
+          city: Madison
+          state: WI
+          country: United States of America
+        - name: University of Wisconsin
+          department: Center for Climatic Research
+          city: Madison
+          state: WI
+          country: United States of America
+  date: "9/6/2024"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - chapters/ospo_introduction.qmd 
+    - chapters/storing_data.qmd
+    - chapters/finding_data.qmd
+    - chapters/trends_in_data.qmd
+    - chapters/finding_a_home.qmd
+    - chapters/assigning_ownership.qmd
+    - chapters/assessing_impact.qmd
+    - chapters/getting_data_out.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
